@@ -1,0 +1,42 @@
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.container {
+  padding: 0 1em
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #666;
+} */
+
+/* .itemList {
+  justify-content: space-around;
+  -webkit-box-shadow: 2px 2px 2px 2px rgb(190, 190, 190);
+     -moz-box-shadow: 2px 2px 2px 2px rgb(190, 190, 190);
+          box-shadow: 2px 2px 2px 2px rgb(190, 190, 190);
+  border-radius: 3px;
+  padding: 10px;
+  margin-bottom: 20px;
+} */
